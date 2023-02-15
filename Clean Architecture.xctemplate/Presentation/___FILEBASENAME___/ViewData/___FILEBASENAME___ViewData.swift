@@ -2,8 +2,8 @@
 //  ___FILEHEADER___
 //
 
-import Foundation
+import SwiftUI
 
-public struct ___VARIABLE_productName:identifier___ViewData {
-    
+public class ___VARIABLE_productName:identifier___ViewData: ObservableObject {
+    public init () {}
 }
